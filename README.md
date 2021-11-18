@@ -4,7 +4,9 @@ The repository asumes php and composer already installed in your computer.
 
 # Steps
 - clone the repository
-- lift mySql database with the credentials in .env file
+- lift mySql database with the credentials in .env file:
+![image](https://user-images.githubusercontent.com/94335532/142383040-a5ea9b0f-c55d-4a94-bd0a-98b52ea65986.png)
+
 - run php artisan migrate --seed
 - run php artisan serve
 
